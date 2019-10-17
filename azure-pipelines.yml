@@ -43,7 +43,7 @@ stages:
     value: 'dev'
       
   jobs:
-  - deployment: DeployDev
+  - deployment: ashwindev
     displayName: Deploy to dev job
     pool:
       vmImage: ubuntu-latest
